@@ -110,3 +110,5 @@ Please give credit if sharing publicly.
 
 a sleek, fast, and visually stunning terminal experience!
 
+Abdessamed Yousfi.
+
