@@ -9,6 +9,7 @@ It provides a sleek, modern, and visually appealing terminal experience.
 
 Run this command to automatically set up Kitty, Zsh, Powerlevel10k, plugins, and Fastfetch:
 
+```bash
 git clone https://github.com/YOUR_USERNAME/kitty-config.git ~/kitty-config && \
 sudo pacman -S --noconfirm kitty zsh git fzf fastfetch && \
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" && \
